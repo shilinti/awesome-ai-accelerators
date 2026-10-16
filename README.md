@@ -444,7 +444,7 @@ Tools for exploring the design space before committing to silicon.
 - [GPGPU-Sim](https://github.com/gpgpu-sim/gpgpu-sim_distribution) — Cycle-level simulation of NVIDIA GPUs running CUDA/OpenCL.
 - [SCALE-Sim](https://github.com/ARM-software/SCALE-Sim) — ARM's systolic-array CNN accelerator simulator.
 - [Timeloop / Accelergy](https://github.com/NVlabs/timeloop) — Mapping and energy/area modeling for DNN accelerators.
-- [Sparseloop](https://github.com/Accelergy-Project/sparseloop) — Analytical modeling for sparse tensor accelerators.
+- [Sparseloop](https://github.com/Accelergy-Project/micro22-sparseloop-artifact) — Analytical modeling for sparse tensor accelerators.
 - [ASTRA-sim](https://github.com/astra-sim/astra-sim) — Distributed ML training platform and network co-design simulator.
 - [LLMCompass](https://github.com/PrincetonUniversity/LLMCompass) — Hardware evaluation for LLM inference.
 - [Roofline: An Insightful Visual Performance Model](https://dl.acm.org/doi/10.1145/1498765.1498785) — Williams, Waterman, and Patterson's foundational model.
